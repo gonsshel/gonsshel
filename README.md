@@ -24,8 +24,8 @@
 <h3 align="left">Networking Tools:</h3>
 
 <span>
-  <img src="https://www.freepnglogos.com/uploads/cisco-png-logo/cisco-png-logo-1.png" width="40" height="40" alt="Cisco Packet Tracer" />
-  <img src="https://www.pngkit.com/png/full/365-3657626_wireshark-icon.png" width="40" height="40" alt="Wireshark" />
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/cisco.svg" width="40" height="40" alt="Cisco" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e1/Wireshark_Logo.svg" width="40" height="40" alt="Wireshark" />
   <img src="https://icon-icons.com/icons2/2107/PNG/512/gns3_icon_130919.png" width="40" height="40" alt="GNS3" />
 </span>
 
