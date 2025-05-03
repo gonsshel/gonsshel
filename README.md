@@ -24,10 +24,16 @@
 <h3 align="left">Networking Tools:</h3>
 
 <span>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Cisco_logo_blue_2016.svg" width="40" height="40" alt="Cisco Packet Tracer" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e1/Wireshark_Logo.svg" width="40" height="40" alt="Wireshark" />
-  <img src="https://icon-icons.com/icons2/2107/PNG/512/gns3_icon_130919.png" width="40" height="40" alt="GNS3" />
+  <!-- Cisco Packet Tracer -->
+  <img src="https://anturis.com/wp-content/uploads/2022/09/Cisco-Packet-Tracer-Logo-1.png" width="40" height="40" alt="Cisco Packet Tracer" />
+
+  <!-- Wireshark -->
+  <img src="https://miro.medium.com/v2/resize:fit:1400/1*8_XcK-4JejVJIpccI8TJow.jpeg" width="40" height="40" alt="Wireshark" />
+
+  <!-- GNS3 -->
+  <img src="https://www.gns3.com/assets/custom/gns3/images/logo-colour.png" width="40" height="40" alt="GNS3" />
 </span>
+
 
 ###
 
