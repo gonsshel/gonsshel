@@ -24,7 +24,7 @@
 <h3 align="left">Networking Tools:</h3>
 
 <span>
-  <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/cisco.svg" width="40" height="40" alt="Cisco" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Cisco_logo_blue_2016.svg" width="40" height="40" alt="Cisco Packet Tracer" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e1/Wireshark_Logo.svg" width="40" height="40" alt="Wireshark" />
   <img src="https://icon-icons.com/icons2/2107/PNG/512/gns3_icon_130919.png" width="40" height="40" alt="GNS3" />
 </span>
@@ -33,12 +33,4 @@
 
 <div align="left">
   <a href="https://www.linkedin.com/in/your-linkedin" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="LinkedIn logo" />
-  </a>
-</div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt
